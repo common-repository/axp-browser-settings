@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-21 16:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: axp-browser-settings.php:51
+msgid "Browser Settings Page"
+msgstr ""
+
+#: axp-browser-settings.php:52 axp-browser-settings.php:181
+msgid "Browser Settings"
+msgstr ""
+
+#: axp-browser-settings.php:64
+msgid "Settings"
+msgstr ""
+
+#: axp-browser-settings.php:71
+msgid "Browser Color"
+msgstr ""
+
+#: axp-browser-settings.php:83
+msgid "Phone disable format"
+msgstr ""
+
+#: axp-browser-settings.php:89
+msgid "<code>tel:</code>, <code>sms:</code> will work"
+msgstr ""
+
+#: axp-browser-settings.php:96
+msgid "Address disable format"
+msgstr ""
+
+#: axp-browser-settings.php:108
+msgid "Date disable format"
+msgstr ""
+
+#: axp-browser-settings.php:120
+msgid "Email disable format"
+msgstr ""
+
+#: axp-browser-settings.php:126
+msgid "<code>mailto:</code> will work"
+msgstr ""
+
+#: axp-browser-settings.php:132
+msgid "ClearType"
+msgstr ""
+
+#: axp-browser-settings.php:138
+msgid ""
+"Forcibly IE (<a href=\"https://en.wikipedia.org/wiki/ClearType\">about "
+"ClearType</a>)"
+msgstr ""
+
+#: axp-browser-settings.php:183
+msgid "The plugin is absolutely free. You can support the developer."
+msgstr ""
+
+#. Name of the plugin
+msgid "AXP Browser Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plug-in for your browser on your phone"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/axp-dev/axp-browser-settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexander Pushkarev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/axp-dev"
+msgstr ""
